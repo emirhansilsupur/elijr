@@ -8,9 +8,9 @@ Explain Like I'm Junior.
 
 Produces a HTML artifact with a diagram, a minimal code example, common mistakes and key jargon, aimed at someone who knows basic programming but is new to the topic.
 
-## Install (local)
+## Install
 
 ```
-/plugin marketplace add C:\Users\D-Cat\elijour
+/plugin marketplace add emirhansilsupur/elijr
 /plugin install elijr@elijr-local
 ```
