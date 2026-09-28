@@ -12,5 +12,5 @@ Produces a HTML artifact with a diagram, a minimal code example, common mistakes
 
 ```
 /plugin marketplace add emirhansilsupur/elijr
-/plugin install elijr@elijr-local
+/plugin install elijr@elijr
 ```

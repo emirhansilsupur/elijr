@@ -1,6 +1,6 @@
 {
-  "name": "elijr-local",
-  "description": "Local marketplace for the elijr plugin.",
+  "name": "elijr",
+  "description": "Marketplace for the elijr plugin: Explain Like I'm Junior.",
   "owner": {
     "name": "Emirhan Silsupur"
   },
