@@ -1,0 +1,14 @@
+{
+  "name": "elijr-local",
+  "description": "Local marketplace for the elijr plugin.",
+  "owner": {
+    "name": "Emirhan Silsupur"
+  },
+  "plugins": [
+    {
+      "name": "elijr",
+      "source": "./",
+      "description": "Explain Like I'm Junior."
+    }
+  ]
+}
