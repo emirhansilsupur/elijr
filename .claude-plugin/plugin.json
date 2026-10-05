@@ -1,6 +1,6 @@
 {
   "name": "elijr",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Explain Like I'm Junior: a visual HTML explainer with diagrams, small code examples and common pitfalls for junior developers. Use /elijr <topic>.",
   "author": {
     "name": "Emirhan Silsupur"

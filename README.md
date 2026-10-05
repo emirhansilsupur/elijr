@@ -18,6 +18,10 @@ elijr explains any technical topic to a junior developer: someone who knows the 
 
 The explanation is written in the language you ask in.
 
+## Writing style
+
+The prose follows about 80% of [ASD-STE100](https://www.asd-ste100.org/) (Simplified Technical English), the controlled language from aerospace maintenance documentation. That means short sentences, active voice, one instruction per step and one word for one meaning. Technical terms are allowed, but each one gets a definition when it first appears. This softened version of the spec was suggested by Andrej Karpathy. For the full spec, add "strict STE" to your request.
+
 ## Install
 
 ```

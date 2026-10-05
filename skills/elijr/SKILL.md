@@ -21,4 +21,20 @@ The artifact should contain, in this order:
 
 Keep it scannable: short paragraphs, clear headings, no walls of text.
 
+## Writing style
+
+Write the prose about 80% of the way to ASD-STE100 (Simplified Technical English), the controlled language used for aerospace maintenance documentation:
+
+- One idea per sentence. Keep sentences to about 20 words, and paragraphs to about 6 sentences.
+- Use the active voice and simple tenses. Use the imperative for instructions: "Send the token in the header."
+- One instruction per step, in the order the reader does them.
+- Use one word for one meaning. When you name a thing, use the same name every time; no synonyms for variety.
+- Don't stack more than 3 nouns together. Write "the flow that validates the session token", not "session token validation flow".
+- Keep articles ("the", "a") and say who does what. Write "the server checks the signature", not "signature is checked".
+- No filler, idioms, or marketing words.
+
+Technical terms are allowed; that is the softened 20%. Define each one when you first use it. Apply the same rules to code comments.
+
+If the user writes in a language other than English, apply the same rules in that language. If the user asks for strict STE, follow the specification fully.
+
 Topic: $ARGUMENTS
